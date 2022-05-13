@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\bin\Debug\net6.0\HW_13_05_2022.exe
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\bin\Debug\net6.0\HW_13_05_2022.deps.json
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\bin\Debug\net6.0\HW_13_05_2022.runtimeconfig.json
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\bin\Debug\net6.0\HW_13_05_2022.dll
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\bin\Debug\net6.0\HW_13_05_2022.pdb
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.dll
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\refint\HW_13_05_2022.dll
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.pdb
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\HW_13_05_2022.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Geekbrans\В группе\HW_13_05_2022\obj\Debug\net6.0\ref\HW_13_05_2022.dll
